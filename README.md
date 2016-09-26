@@ -2,7 +2,7 @@
 #Menus etc
 #Fight system that will be used for the whole game
 #but help me in designing a load and save function
-#and tell me how i can impove the code
+#and tell me how i can imrpove the code
 
 import random
 
